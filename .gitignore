@@ -142,3 +142,5 @@ b
 build.sh
 build.log
 out
+scripts/**/Android.bp
+scripts/Android.bp
